@@ -1,0 +1,41 @@
+body {
+background-color: pink;
+
+}
+
+h1 {
+font-family: 'Monaco', monospace;
+color: grey;
+font-size: 60px;
+
+}
+
+h4 {
+  font-family: 'Monaco', monospace;
+  color: grey;
+  font-size: 25px;
+
+}
+
+h2 {
+  font-family: 'Monaco', monospace;
+  color: grey;
+  font-size: 15px;
+
+}
+
+p1{
+  font-family: 'times new roman', serif;
+  color: grey;
+  font-size: 15px;
+
+
+}
+
+h6 {
+  font-family: 'Monaco', monospace;
+  color: grey;
+  font-size: 15px;
+
+
+}
