@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {font-size: 100%;} /*16px*/
+
+body {
+  background-color: #41b3a3;
+  color: #181354;
+  margin: 0;
+  padding: 50px;
+  line-height: 1.75;
+}
+h1 {
+
+  font-size: 5em;
+color: white;
+}
+
+h2 {font-size: 3em;
+color: white;
+}
+
+h4 {font-size: 1.5em;
+margin-top: 0;
+color: white;
+}
+
+dt {
+	font-size: 2em;
+	font-weight: bold;
+  color: white;
+}
