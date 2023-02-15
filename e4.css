@@ -1,0 +1,80 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+ font-family: 'Bebas Neue', cursive;
+font-family: 'Dosis', sans-serif;
+  background-color: #BDB76B;
+}
+.ten{
+  font-size: 150px;
+  color: #FAF0E6;
+}
+.text{
+  margin-left: 0.50em;
+  font-size: 85px;
+  color: #FFE4E1;
+	text-align: right;
+ font-family: 'Bebas Neue', cursive;
+font-family: 'Dosis', sans-serif;
+	font-weight: 900;
+  font-style: normal;
+  background-color: transparent;
+}
+
+
+h2{
+  color: #FAF0E6;
+ font-family: 'Bebas Neue', cursive;
+font-family: 'Dosis', sans-serif;
+	font-weight: 600;
+  font-style: bold;
+}
+p{
+  margin-top: 20px;
+  color: #FFE4E1;
+ font-family: 'Bebas Neue', cursive;
+font-family: 'Dosis', sans-serif;
+	font-weight: 200;
+  font-style: normal;
+}
+small{
+  margin-top: 20px;
+  color: #FFE4E1;
+ font-family: 'Bebas Neue', cursive;
+font-family: 'Dosis', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.bold{
+	color: #FFC0CB;
+   font-family: 'Bebas Neue', cursive;
+font-family: 'Dosis', sans-serif;
+	font-weight: 900;
+  font-style: bold;
+}
+.small{
+  display: flex;
+  color: #FFE4E1;
+}
+
+.title1{
+	text-align: center;
+  font-weight: 800;
+}
+.title2{
+  padding-right: 200px;
+  text-align: right;
+  font-family: 'Bebas Neue', cursive;
+font-family: 'Dosis', sans-serif;
+	font-weight: 900;
+  font-style: normal;
+  font-size: 70px;
+  color: #FFE4E1;
+}
+.content{
+  margin-left: 200px;
+  margin-right: 200px;
+  font-size: 20px;
+  margin-bottom: 100px;
+}
+
