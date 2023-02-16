@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	
+background-color: #FAF0E6;	
+	margin-left: 200px;
+	margin-right: 200px;
+		
+}
+
+h1 {
+	font-size: 80px;
+	font-weight:500;
+	font-family: 'Comfortaa', cursive;
+font-family: 'Montserrat', sans-serif;
+	color: #00CED1;
+	text-align: center
+	
+	
+}
+
+h2 {
+	
+	font-family: 'Comfortaa', cursive;
+font-family: 'Montserrat', sans-serif;
+	font-weight:200;
+	color: #00CED1;
+		text-align: center
+}
+
+p {
+	
+	font-weight:100;
+	font-family: 'Comfortaa', cursive;
+font-family: 'Montserrat', sans-serif;
+	color:  #DDA0DD;
+	text-align: center
+	
+}
